@@ -1,2 +1,2 @@
 # Adaptive-Proxy-Anchor-
-Adaptive proxy anchor
+Offical implement "Adaptive proxy anchor" 
